@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/waqid">
-  <img align="center" width="55%"  src="https://github-readme-stats.vercel.app/api?username=waqid&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" width="57.5%"  src="https://github-readme-stats.vercel.app/api?username=waqid&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/waqid">
-  <img align="center"  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqid&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center"  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqid&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
 <!--
