@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/waqid">
-  <img align="center" width="57.5%"  src="https://github-readme-stats.vercel.app/api?username=waqid&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/waqid">
-  <img align="center"  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqid&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+| <a href="https://github.com/waqid"><img align="center" src="https://github-readme-stats.vercel.app/api?username=waqid&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Waqid's github stats" /></a> | <a href="https://github.com/waqid"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqid&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **waqid/waqid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
