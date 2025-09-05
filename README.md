@@ -52,7 +52,7 @@
 </p>
 
 ---
-
+<!-- 
 ## Let's Connect
 
 <p align="center">
@@ -61,3 +61,4 @@
   <a href="https://instagram.com/waqid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqid" height="30" width="40" /></a>
   <a href="https://dama.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/browser.svg" alt="Portfolio Website" height="30" width="40" /></a>
 </p>
+-->
