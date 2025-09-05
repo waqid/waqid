@@ -30,7 +30,7 @@
   </a>
 </p>
 
-*Customize the icons above by visiting [skillicons.dev](https://skillicons.dev) and generating your own URL.*
+<!--  *Customize the icons above by visiting [skillicons.dev](https://skillicons.dev) and generating your own URL.* -->
 
 ---
 
