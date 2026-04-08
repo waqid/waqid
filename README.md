@@ -20,7 +20,7 @@
 - 👯 **Looking to collaborate on**: Open-source projects focused on web development and blockchain
 - 🤔 **Seeking help with**: Optimizing CI/CD pipelines for automated deployments
 - 💬 **Ask me about**: Web Development, UI/UX Design, and Backend Architecture
-- 📫 **Reach me at**: hello@dama.id
+- 📫 **Reach me at**: hai@dama.id
 - ⚡ **Fun fact**: I gamify my daily tasks to boost productivity!
 
 ---
