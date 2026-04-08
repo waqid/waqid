@@ -1,7 +1,11 @@
 # Hi there, I'm Waqid
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Waqid;Full-Stack+Developer;Welcome+to+my+profile" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d0d0d&height=180&section=header" />
 </p>
 
 <p align="center">
