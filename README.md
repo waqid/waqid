@@ -33,16 +33,7 @@ Full-stack developer based in Indonesia with expertise in building scalable web 
 
 <p align="center">
   <a href="https://github.com/waqid">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=waqid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Waqid's Github Stats" />
-  </a>
-  <a href="https://github.com/waqid">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqid&theme=tokyonight&hide_border=true" alt="Waqid's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/waqid">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqid&layout=compact&theme=tokyonight&hide_border=true" alt="Waqid's Top Languages" />
   </a>
 </p>
 
