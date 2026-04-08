@@ -1,11 +1,14 @@
-# Hi there, I'm Waqid 👋
+# Hi there, I'm Waqid
 
-## A Passionate Full-Stack Developer from Indonesia 🇮🇩
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90" />
+</p>
 
 <p align="center">
   <a href="https://github.com/waqid">
     <img src="https://komarev.com/ghpvc/?username=waqid&label=Profile%20Views&color=blueviolet&style=flat-square" alt="waqid" />
   </a>
+  <img src="https://img.shields.io/github/followers/waqid?style=flat-square&color=blueviolet" alt="followers" />
 </p>
 
 ---
@@ -30,8 +33,6 @@
   </a>
 </p>
 
-<!--  *Customize the icons above by visiting [skillicons.dev](https://skillicons.dev) and generating your own URL.* -->
-
 ---
 
 ## My GitHub Stats
@@ -52,7 +53,7 @@
 </p>
 
 ---
-<!-- 
+
 ## Let's Connect
 
 <p align="center">
@@ -61,4 +62,7 @@
   <a href="https://instagram.com/waqid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqid" height="30" width="40" /></a>
   <a href="https://dama.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/browser.svg" alt="Portfolio Website" height="30" width="40" /></a>
 </p>
--->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=waqid&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
