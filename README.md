@@ -15,17 +15,11 @@
 
 ## About Me
 
-- 🔭 **Currently working on**: Building innovative web applications and exploring AI integrations
-- 🌱 **Currently learning**: Advanced Web3 technologies and cloud-native development
-- 👯 **Looking to collaborate on**: Open-source projects focused on web development and blockchain
-- 🤔 **Seeking help with**: Optimizing CI/CD pipelines for automated deployments
-- 💬 **Ask me about**: Web Development, UI/UX Design, and Backend Architecture
-- 📫 **Reach me at**: hai@dama.id
-- ⚡ **Fun fact**: I gamify my daily tasks to boost productivity!
+Full-stack developer based in Indonesia with expertise in building scalable web applications. Passionate about creating impactful digital solutions and contributing to open-source projects.
 
 ---
 
-## My Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +29,7 @@
 
 ---
 
-## My GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/waqid">
@@ -54,15 +48,11 @@
 
 ---
 
-## Let's Connect
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/waqid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqid" height="30" width="40" /></a>
   <a href="https://twitter.com/waqid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waqid" height="30" width="40" /></a>
   <a href="https://instagram.com/waqid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqid" height="30" width="40" /></a>
   <a href="https://dama.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/browser.svg" alt="Portfolio Website" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waqid&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
