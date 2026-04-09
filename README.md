@@ -1,11 +1,11 @@
-# Waqid
+# Hey, I'm Waqid 👋
 
-Full-stack developer from Indonesia. Building scalable web applications and contributing to open-source.
+Pasarbesar, Indonesia — full-stack developer yang suka bikin aplikasi web. Kalau nggak ngoding, biasanya lagi ngopi atau scroll GitHub cari repositori seru.
 
-## Stack
+## Yang Saya Pakai Sehari-hari
 
 `TypeScript` `React` `Vue` `Node.js` `Python` `PostgreSQL` `MongoDB` `Docker` `Git`
 
-## Connect
+## Mau Ngobrol?
 
 [Website](https://dama.id) · [LinkedIn](https://linkedin.com/in/waqid) · [Twitter](https://twitter.com/waqid) · [Instagram](https://instagram.com/waqid)
