@@ -8,29 +8,37 @@ I build things that are meant to be forgotten — until they're not running.
 
 ## The three desks
 
-```text
- ┌──────────────┐         ┌──────────────┐         ┌──────────────┐
- │  the lab     │         │  the client  │         │  the client  │
- │              │         │  with money  │         │  with the    │
- │SaaS ideas,   │         │              │         │  mountain    │
- │small tools.  │         │money that    │         │              │
- │half of them  │         │moves, moved  │         │legacy ops    │
- │good, all of  │         │carefully.    │         │software that │
- │them mine.    │         │              │         │refuses to    │
- │              │         │who exactly?  │         │go home.      │
- │what's inside │         │you'll hear   │         │              │
- │is free to    │         │some of it,   │         │it moves real │
- │find out.     │         │never all.    │         │things, and   │
- │              │         │(smiles.)     │         │real things   │
- │  ██████████  │         │              │         │can't 404.    │
- │  [redacted:  │         │  ██████████  │         │              │
- │   spoilers]  │         │  [redacted]  │         │  ██████████  │
- │              │         │              │         │  [redacted]  │
- └──────────────┘         └──────────────┘         └──────────────┘
-                                │
-                          one engineer,
-                      one cold cup of coffee,
-                 and a suspicious number of terminals.
+```mermaid
+flowchart TB
+    subgraph LAB["🧪 the lab"]
+        direction TB
+        L1["SaaS ideas, small tools.<br/>Half of them good,<br/>all of them mine."]
+        L2["What's inside<br/>is free to find out."]
+        L3["██████████<br/>[redacted: spoilers]"]
+        L1 ~~~ L2 ~~~ L3
+    end
+
+    subgraph MONEY["💸 the client with money"]
+        direction TB
+        M1["Money that moves,<br/>moved carefully."]
+        M2["Who exactly?<br/>You'll hear some of it.<br/>Never all. (smiles.)"]
+        M3["██████████<br/>[redacted]"]
+        M1 ~~~ M2 ~~~ M3
+    end
+
+    subgraph MOUNTAIN["🏔️ the client with the mountain"]
+        direction TB
+        T1["Legacy ops software<br/>that refuses to go home."]
+        T2["It moves real things,<br/>and real things<br/>can't 404."]
+        T3["██████████<br/>[redacted]"]
+        T1 ~~~ T2 ~~~ T3
+    end
+
+    LAB --> ME
+    MONEY --> ME
+    MOUNTAIN --> ME
+
+    ME(["one engineer,<br/>one cold cup of coffee,<br/>and a suspicious number of terminals"])
 ```
 
 The desks are real. The labels got redacted before you could ask.
